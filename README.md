@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/your-repo?style=social" />
-<img src="https://img.shields.io/github/forks/your-repo?style=social" />
-<img src="https://img.shields.io/github/issues/your-repo" />
-<img src="https://img.shields.io/github/license/your-repo" />
-</p>
+<img src="https://img.shields.io/github/stars/Vanshika290/Adversarial-Defense-Anti-Spoofing-Strategy?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Vanshika290/Adversarial-Defense-Anti-Spoofing-Strategy?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/Vanshika290/Adversarial-Defense-Anti-Spoofing-Strategy?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/Vanshika290/Adversarial-Defense-Anti-Spoofing-Strategy?style=for-the-badge" />
+</p>>
 
 ---
 
